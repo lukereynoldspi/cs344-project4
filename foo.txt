@@ -1,0 +1,11 @@
+total 44
+drwxrwxrwx 1 lukereynolds lukereynolds   512 Jan 30 01:04 .
+drwxrwxrwx 1 lukereynolds lukereynolds   512 Jan 28 19:17 ..
+drwxrwxrwx 1 lukereynolds lukereynolds   512 Jan 28 19:18 .git
+-rwxrwxrwx 1 lukereynolds lukereynolds   185 Jan 12 18:26 Makefile
+-rwxrwxrwx 1 lukereynolds lukereynolds    16 Jan 27 14:23 README.md
+-rwxrwxrwx 1 lukereynolds lukereynolds     0 Jan 30 01:04 foo.txt
+-rwxrwxrwx 1 lukereynolds lukereynolds 16920 Jan 30 01:01 lswc
+-rwxrwxrwx 1 lukereynolds lukereynolds   418 Jan 30 01:01 lswc.c
+-rwxrwxrwx 1 lukereynolds lukereynolds 17136 Jan 30 01:01 redirout
+-rwxrwxrwx 1 lukereynolds lukereynolds   733 Jan 30 01:01 redirout.c
